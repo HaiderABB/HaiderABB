@@ -27,4 +27,3 @@
 🌐 [LinkedIn](www.linkedin.com/in/haider-abbas-moazzam-52b433247)
 📧 [Email](haider.a.moazzam@gmail.com)
 
-(https://github-readme-stats.vercel.app/api?HaiderABB=<HaiderABB>&show_icons=true&theme=radical)
