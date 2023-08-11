@@ -1,16 +1,30 @@
 ### Hi there 👋
 
-<!--
-**HaiderABB/HaiderABB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on React.js
+- 🌱 I’m currently learning NEXT.js
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👋 Hello! I'm Haider, a passionate Software Engineering student with a flair for front-end development and a strong foundation in Object-Oriented Programming.
+
+## About Me
+
+- 🎓 Studying towards a Bachelor of Software Engineering.
+- 📚 Currently in my third semester.
+- 🌟 Dedicated to continuous learning and enhancing my skills.
+- ✨ Proficient in HTML, CSS, JavaScript, and Java.
+- ⚡ Excited about modern web development using React.js and Next.js.
+
+## Skills
+
+- Front-end Development: HTML, CSS, JavaScript
+- Frameworks: React.js, Next.js
+- Programming Languages: C++
+- Database: SQL
+- Version Control: Git
+
+## Connect with Me
+
+🌐 [LinkedIn](www.linkedin.com/in/haider-abbas-moazzam-52b433247)
+📧 [Email](haider.a.moazzam@gmail.com)
+
+https://github-readme-stats.vercel.app/api?username=<HaiderAbb>&show_icons=true&theme=radical
