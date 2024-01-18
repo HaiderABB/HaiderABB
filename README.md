@@ -9,7 +9,7 @@
 ## About Me
 
 - 🎓 Studying towards a Bachelor of Software Engineering.
-- 📚 Currently in my third semester.
+- 📚 Currently in my fourth semester.
 - 🌟 Dedicated to continuous learning and enhancing my skills.
 - ✨ Proficient in HTML, CSS, JavaScript, and C++.
 - ⚡ Excited about modern web development using React.js and Next.js.
