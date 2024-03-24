@@ -18,7 +18,7 @@
 
 - Front-end Development: HTML, CSS, JavaScript
 - Frameworks: React.js, Next.js
-- Programming Languages: C++
+- Programming Languages: C++, JavaScript, Java
 - Database: SQL
 - Version Control: Git
 
