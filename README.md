@@ -11,12 +11,13 @@
 - 🎓 Studying towards a Bachelor of Software Engineering.
 - 📚 Currently in my fourth semester.
 - 🌟 Dedicated to continuous learning and enhancing my skills.
-- ✨ Proficient in HTML, CSS, JavaScript, and C++.
+- ✨ Experiences with JavaScript, C++, Java, HTML, and CSS.
 - ⚡ Excited about modern web development using React.js and Next.js.
 
 ## Skills
 
 - Front-end Development: HTML, CSS, JavaScript
+- Other Languages: JAVA and C++
 - Frameworks: React.js, Next.js
 - Programming Languages: C++, JavaScript, Java
 - Database: SQL, MongoDB
