@@ -11,7 +11,7 @@
 - 🎓 Studying towards a Bachelor of Software Engineering.
 - 📚 Currently in my fourth semester.
 - 🌟 Dedicated to continuous learning and enhancing my skills.
-- ✨ Experiences with JavaScript, C++, Java, HTML, and CSS.
+- ✨ Experienced with JavaScript, C++, Java, HTML, and CSS.
 - ⚡ Excited about modern web development using React.js and Next.js.
 
 ## Skills
