@@ -6,6 +6,7 @@
 
 👋 Hello! I'm Haider, a passionate Software Engineering student with a flair for front-end development and a strong foundation in Object-Oriented Programming.
 
+![](https://komarev.com/ghpvc/?username=HaiderABB)
 ## About Me
 
 - 🎓 Studying towards a Bachelor of Software Engineering.
