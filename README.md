@@ -4,7 +4,8 @@
 - 🌱 I’m currently learning NodeJS
 
 
-👋 Hello! I'm Haider, a passionate Software Engineering student with a flair for front-end development, working on ReactJS in Front-end development and learning Backend development by developing RESTful APIs using NodeJS and ExpressJS.
+👋 Hello! I'm Haider, a passionate Software Engineering student with a flair for front-end development, working on ReactJS in Front-end development and learning Backend development by 
+    developing RESTful APIs using NodeJS and ExpressJS.
 
 ![](https://komarev.com/ghpvc/?username=HaiderABB)
 ## About Me
