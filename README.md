@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on React.js
-- 🌱 I’m currently learning NEXT.js
+- 🔭 I’m currently working on ReactJS
+- 🌱 I’m currently learning NodeJS
 
 
 👋 Hello! I'm Haider, a passionate Software Engineering student with a flair for front-end development and a strong foundation in Object-Oriented Programming.
@@ -12,14 +12,15 @@
 - 🎓 Studying towards a Bachelor of Software Engineering.
 - 📚 Currently in my fourth semester.
 - 🌟 Dedicated to continuous learning and enhancing my skills.
-- ✨ Experienced with JavaScript, C++, Java, HTML, and CSS.
-- ⚡ Excited about modern web development using React.js and Next.js.
+- ✨ Experienced with JavaScript,NodeJS C++, Java, HTML, and CSS.
+- ⚡ Excited about modern web development using React.js, Next.js, Express
 
 ## Skills
 
 - Front-end Development: HTML, CSS, JavaScript
+- Back-end Development : NodeJS, Express
 - Other Languages: JAVA and C++
-- Frameworks: React.js, Next.js
+- Frameworks: React.js, Next.js, Express
 - Programming Languages: C++, JavaScript, Java
 - Database: SQL, MongoDB
 - Version Control: Git, GitHub
