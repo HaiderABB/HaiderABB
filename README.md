@@ -4,26 +4,27 @@
 - 🌱 I’m currently learning NodeJS
 
 
-👋 Hello! I'm Haider, a passionate Software Engineering student with a flair for front-end development and a strong foundation in Object-Oriented Programming.
+👋 Hello! I'm Haider, a passionate Software Engineering student with a flair for front-end development, working on ReactJS in Front-end development and learning Backend development, developing RESTful APIs using NodeJS and ExpressJS.
 
 ![](https://komarev.com/ghpvc/?username=HaiderABB)
 ## About Me
 
 - 🎓 Studying towards a Bachelor of Software Engineering.
-- 📚 Currently in my fourth semester.
-- 🌟 Dedicated to continuous learning and enhancing my skills.
+- 📚 Currently in my fifth semester.
+- ⚡ Transforming ideas into interactive web experiences with React and JavaScript, and powering them with efficient RESTful APIs using Node.js and Express.js.
 - ✨ Experienced with JavaScript, NodeJS, C++, Java, HTML, and CSS.
-- ⚡ Excited about modern web development using React.js, Next.js, Express
+- 🌟 Dedicated to continuous learning and enhancing my skills.
 
 ## Skills
 
 - Front-end Development: HTML, CSS, JavaScript
 - Back-end Development: NodeJS, Express
+- UI Libraries: MaterialUI, CanvasJS, Bootstrap, Tailwind
 - Other Languages: JAVA and C++
 - Frameworks: React.js, Next.js, Express
-- Programming Languages: C++, JavaScript, Java
-- Database: SQL, MongoDB
-- Version Control: Git, GitHub
+- Programming Languages: C++, JavaScript, Java, SQL
+- Databases: MySQL, MongoDB
+- Version Control: Git, GitHub, BitBucket, SourceTree
 
 ## Connect with Me
 
