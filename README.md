@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ReactJS
-- 🌱 I’m currently learning NodeJS
+- 🌱 I’m currently learning TypeScript
 
 
 👋 Hello! I'm Haider, a passionate Software Engineering student with a flair for front-end development, working on ReactJS in Front-end development and learning Backend development by 
