@@ -64,7 +64,6 @@
 🌐 [LinkedIn](www.linkedin.com/in/haider-abbas-moazzam-52b433247)
 📧 [Email](haider.a.moazzam@gmail.com)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HaiderABB&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
