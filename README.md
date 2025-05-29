@@ -4,14 +4,14 @@
 - 🌱 I’m currently learning TypeScript
 
 
-👋 Hello! I'm Haider, a passionate Software Engineering student with a flair for front-end development, working on ReactJS in Front-end development and learning Backend development by 
+👋 Hello! I'm Haider, a passionate Software Engineering student with a flair for front-end development, working on ReactJS in Front-end development and Backend by 
     developing RESTful APIs using NodeJS and ExpressJS.
 
 ![](https://komarev.com/ghpvc/?username=HaiderABB)
 ## About Me
 
 - 🎓 Studying towards a Bachelor of Software Engineering.
-- 📚 Currently in my fifth semester.
+- 📚 Currently in my sixth semester.
 - ⚡ Transforming ideas into interactive web experiences with React and JavaScript, and powering them with efficient RESTful APIs using Node.js and Express.js.
 - ✨ Experienced with TypeScript, JavaScript, NodeJS, Python, C++, Java, HTML, and CSS.
 - 🌟 Dedicated to continuous learning and enhancing my skills.
