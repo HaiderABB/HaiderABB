@@ -11,7 +11,7 @@
 ## About Me
 
 - 🎓 Studying towards a Bachelor of Software Engineering.
-- 📚 Currently in my sixth semester.
+- 📚 Currently in my seventh semester.
 - ⚡ Transforming ideas into interactive web experiences with React and JavaScript, and powering them with efficient RESTful APIs using Node.js and Express.js.
 - ✨ Experienced with TypeScript, JavaScript, NodeJS, Python, C++, Java, HTML, and CSS.
 - 🌟 Dedicated to continuous learning and enhancing my skills.
