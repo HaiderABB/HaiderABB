@@ -1,27 +1,25 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ReactJS
-- 🌱 I’m currently learning TypeScript
+- 🔭 I’m currently working with Python and AI systems
+- 🌱 I’m currently learning TypeScript and advanced system design
 
 
-👋 Hello! I'm Haider, a passionate Software Engineering student with a flair for front-end development, working on ReactJS in Front-end development and Backend by 
-    developing RESTful APIs using NodeJS and ExpressJS.
+👋 Hello! I'm Haider Abbas, a passionate Software Engineering student focused on building intelligent, end-to-end systems. I combine AI/ML expertise with strong full-stack development skills to develop scalable, production-ready applications from deep learning models to complete web platforms.
 
 ![](https://komarev.com/ghpvc/?username=HaiderABB)
 ## About Me
 
-- 🎓 Studying towards a Bachelor of Software Engineering.
-- 📚 Currently in my seventh semester.
-- ⚡ Transforming ideas into interactive web experiences with React and JavaScript, and powering them with efficient RESTful APIs using Node.js and Express.js.
-- ✨ Experienced with TypeScript, JavaScript, NodeJS, Python, C++, Java, HTML, and CSS.
-- 🌟 Dedicated to continuous learning and enhancing my skills.
-
+- 🎓 Bachelor of Software Engineering (Final Year – 8th Semester)
+- 🤖 Focused on AI, Deep Learning, and Large Language Models
+- 🌐 Experienced in full-stack development using modern JavaScript ecosystems
+- 🏗 Interested in scalable system architecture and production AI deployment
+- 📈 Dedicated to continuous learning and engineering excellence
+  
 ## Skills
 
-- Front-end Development: HTML, CSS, JavaScript
-- Back-end Development: NodeJS, ExpressJS, FastAPI
-- UI Libraries: MaterialUI, CanvasJS, Bootstrap, Tailwind
-- Frameworks: React.js, Next.js, ExpressJS, FastAPI
+- Front-end Development: JavaScript, React.js, Next.js
+- Back-end Development: NodeJS, ExpressJS, NestJS, FastAPI
+- AI / Machine Learning: PyTorch / TensorFlow, Scikit-learn, Computer Vision, Deep Learning, Large Language Models (LLMs)
 - Programming Languages: TypeScript, JavaScript, Python, Java, C++ 
 - Databases: PostgreSQL, MySQL, MongoDB
 - Version Control: Git, GitHub, BitBucket, SourceTree
