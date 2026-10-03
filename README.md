@@ -9,7 +9,7 @@
 ![](https://komarev.com/ghpvc/?username=HaiderABB)
 ## About Me
 
-- 🎓 Bachelor of Software Engineering (Final Year – 8th Semester)
+- 🎓 Bachelor of Software Engineering
 - 🤖 Focused on AI, Deep Learning, and Large Language Models
 - 🌐 Experienced in full-stack development using modern JavaScript ecosystems
 - 🏗 Interested in scalable system architecture and production AI deployment
